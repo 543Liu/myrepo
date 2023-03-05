@@ -2,7 +2,7 @@
 title: "sb3"
 author: "sb"
 date: "2023-03-05"
-output: html_document
+output: github_document
 ---
 ```{r}
 print("Hello")
