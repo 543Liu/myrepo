@@ -1,0 +1,18 @@
+---
+title: "sb"
+author: "sb"
+date: "2023-03-05"
+output: html_document
+---
+
+```{r}
+print("hello")
+```
+
+
+usethis::create_from_github(
+  "https://github.com/543Liu/myrepo.git",
+  destdir = "/Users/liuxiaokui/Desktop/研究生第二学期课程/Data Analysis Skills/W8/"
+)
+
+
